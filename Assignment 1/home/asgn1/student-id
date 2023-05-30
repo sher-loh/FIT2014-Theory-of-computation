@@ -1,0 +1,6 @@
+# Please modify the following two variables to contain your id number and your
+# surname.  To do this, replace 12345 with your id number, and replace
+# MacGyver with your surname.  You can place spaces in your surname
+# if you need to.
+export ID="30856183"
+export SURNAME="Loh"
